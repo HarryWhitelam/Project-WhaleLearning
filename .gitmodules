@@ -1,0 +1,6 @@
+[submodule "weka-3.8"]
+	path = weka-3.8
+	url = https://github.com/Waikato/weka-3.8.git
+[submodule "tsml"]
+	path = tsml
+	url = https://github.com/uea-machine-learning/tsml.git
