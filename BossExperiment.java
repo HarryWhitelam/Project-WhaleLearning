@@ -1,5 +1,5 @@
 import weka.classifiers.Classifier;
-import tsml.src.main.java.tsml.classifiers.dictionary_based.*;
+import tsml.classifiers.dictionary_based.BOSS;
 
 public class BossExperiment {
 	public static void main(String[] args) throws Exception {
